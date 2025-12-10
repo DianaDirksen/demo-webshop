@@ -1,7 +1,8 @@
 const PRODUCTS = {
-  apple: { name: "Apple", emoji: "🍏" },
-  banana: { name: "Banana", emoji: "🍌" },
-  lemon: { name: "Lemon", emoji: "🍋" },
+  maineCoon: { name: "Maine Coon", emoji: "🐾" },
+  nordicForestCat: { name: "Nordic Forest Cat", emoji: "🌲🐱" },
+  britishShorthair: { name: "British Shorthair", emoji: "🇬🇧🐾" },
+  bengal: { name: "Bengal", emoji: "🐆" },
 };
 
 function getBasket() {
